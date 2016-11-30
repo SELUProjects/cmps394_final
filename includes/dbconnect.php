@@ -8,8 +8,8 @@ $db_conn = array
 (
     "servername" => "localhost",
     "dbname" => "cmps394_LA_Emergency_Response",
-    "username" => "cmps394",
-    "password" => "secret",
+    "username" => "billy",
+    "password" => "iMjk#4two",
 );
 
 $conn = new mysqli($db_conn["servername"], $db_conn["username"], $db_conn["password"], $db_conn["dbname"]);
