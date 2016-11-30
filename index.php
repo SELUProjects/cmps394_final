@@ -4,7 +4,7 @@ $header = 'Louisiana Emergency Contact';
 $title = 'Home';
 include_once 'includes/header.php';
 include_once 'includes/navigation.php';
-include_once 'includes/sidebar_right.php';
+// include_once 'includes/sidebar_right.php';
 ?>
 
 
