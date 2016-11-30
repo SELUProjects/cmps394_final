@@ -27,6 +27,6 @@ if(!defined('MyConst')) {
     crossorigin="anonymous"></script>
 <?php if (isset($js)) {
     foreach ($js as $value) {
-      echo '<script src=' . $value . '></script>';
+      echo '<script src="' . $value . '"></script>';
     }    
 } ?>
